@@ -1,0 +1,18 @@
+﻿  fact.cc
+c:\users\hasee\source\repos\primer\primer\fact.cc(211): warning C4018: “<”: 有符号/无符号不匹配
+  primer.cpp
+c:\users\hasee\source\repos\primer\primer\person.h(25): warning C4227: 使用了记时错误: 忽略引用上的限定符
+c:\users\hasee\source\repos\primer\primer\person.h(30): warning C4227: 使用了记时错误: 忽略引用上的限定符
+d:\vs2017\vc\tools\msvc\14.16.27023\include\algorithm(174): error C2672: “operator __surrogate_func”: 未找到匹配的重载函数
+  c:\users\hasee\source\repos\primer\primer\primer.cpp(456): note: 参见对正在编译的函数 模板 实例化“_InIt std::find_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::_Binder<std::_Unforced,bool (__cdecl &)(const std::string &,unsigned int),const std::_Ph<1> &,unsigned int &>>(_InIt,const _InIt,_Pr)”的引用
+          with
+          [
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Ty=int,
+              _Pr=std::_Binder<std::_Unforced,bool (__cdecl &)(const std::string &,unsigned int),const std::_Ph<1> &,unsigned int &>
+          ]
+d:\vs2017\vc\tools\msvc\14.16.27023\include\algorithm(174): error C2893: 未能使函数模板“unknown-type std::_Binder<std::_Unforced,bool (__cdecl &)(const std::string &,unsigned int),const std::_Ph<1> &,unsigned int &>::operator ()(_Unbound &&...) const”专用化
+  d:\vs2017\vc\tools\msvc\14.16.27023\include\algorithm(174): note: 用下列模板参数:
+  d:\vs2017\vc\tools\msvc\14.16.27023\include\algorithm(174): note: “_Unbound={int &}”
+  正在生成代码...
+c:\users\hasee\source\repos\primer\primer\fact.cc(171): warning C4715: “jiudianyiwu”: 不是所有的控件路径都返回值

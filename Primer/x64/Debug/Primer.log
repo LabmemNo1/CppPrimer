@@ -1,0 +1,4 @@
+﻿  primer.cpp
+c:\users\hasee\source\repos\primer\primer\person.h(25): warning C4227: 使用了记时错误: 忽略引用上的限定符
+c:\users\hasee\source\repos\primer\primer\person.h(30): warning C4227: 使用了记时错误: 忽略引用上的限定符
+  Primer.vcxproj -> C:\Users\hasee\source\repos\Primer\x64\Debug\Primer.exe
